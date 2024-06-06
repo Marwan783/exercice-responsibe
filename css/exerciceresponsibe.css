@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: blueviolet;
+    height: 65px;
+}
+
+.block a{
+    display: block;
+}
+
+a{
+    background-color: aqua;
+}
