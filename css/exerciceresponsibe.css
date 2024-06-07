@@ -7,10 +7,74 @@ header{
     height: 65px;
 }
 
-.block a{
+nav .block p{
     display: block;
+    background-color: rgb(26, 147, 218);
+    width: 300px;
+    height: 30px;
+    color: white;
+    text-indent: 0.5em;
+    margin-top: 5px;
+    margin: 5px;
 }
 
-a{
-    background-color: aqua;
+section{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.city{
+    font-size: 25px;
+    margin-left: 90px;
+
+}
+
+.text{
+    margin-left: 80px;
+}
+
+.droit{
+    margin-left: 400px;
+    text-align: center;
+    background-color: rgb(26, 147, 218);
+    color: white;
+    height: 300px ;
+    width: 400px;
+}
+
+.cabane{
+    width: 400px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.gateaux{
+    width: 400px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.cirque{
+    width: 400px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.mannette{
+    width: 400px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+footer{
+    background-color: rgb(26, 147, 218);
+    color: white;
+    height: 50px;
+    align-content: center;
+    text-indent: 1em;
 }
